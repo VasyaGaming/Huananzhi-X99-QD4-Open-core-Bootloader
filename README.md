@@ -2,9 +2,13 @@ Open core BootLoader
 Version: 0.9.9
 -------------------------------------------------
 Motherboard-Huananzhi X99 QD4
+
 Processor-Intel Xeon E5-2670V3
-SSD-Goodram cl100 
+
+SSD-Goodram cl100
+
 Video Card-Amd RX570 8GB
+
 --------------------------------------------------
 Bios Settings 
 -----------------------------------------------------------------------------------------------------------------------------
