@@ -1,11 +1,13 @@
-Open core 0.9.9 
+Open core BootLoader
+Version: 0.9.9
+-------------------------------------------------
 Motherboard-Huananzhi X99 QD4
 Processor-Intel Xeon E5-2670V3
 SSD-Goodram cl100 
 Video Card-Amd RX570 8GB
-
+--------------------------------------------------
 Bios Settings 
-
+-----------------------------------------------------------------------------------------------------------------------------
 Disable Settings
 
 Fast Boot
@@ -25,14 +27,8 @@ Thunderbolt(For initial install, as Thunderbolt can cause issues if not setup co
 Intel SGX
 
 Intel Platform Trust
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 Enable Settings 
-VT-x
 
 Above 4G Decoding
 
@@ -45,3 +41,4 @@ EHCI/XHCI Hand-off
 OS type: Windows 8.1/10 UEFI Mode (some motherboards may require "Other OS" instead)
 
 SATA Mode: AHCI
+------------------------------------------------------------------------------------------------------------------------------------------------------
