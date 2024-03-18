@@ -31,7 +31,8 @@ Intel Platform Trust
 
 
 
-Enable Settings VT-x
+Enable Settings 
+VT-x
 
 Above 4G Decoding
 
