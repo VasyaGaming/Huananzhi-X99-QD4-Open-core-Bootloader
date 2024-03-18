@@ -7,7 +7,6 @@ Video Card-Amd RX570 8GB
 Bios Settings 
 
 Disable Settings
-
 Fast Boot
 Secure Boot
 Serial/COM Port
@@ -19,10 +18,15 @@ Intel SGX
 Intel Platform Trust
 
 Enable Settings VT-x
+
 Above 4G Decoding
-If experiencing issues, ensure "MMIOH Base" is set to 12 TB or lower
+
 Hyper-Threading
+
 Execute Disable Bit
+
 EHCI/XHCI Hand-off
+
 OS type: Windows 8.1/10 UEFI Mode (some motherboards may require "Other OS" instead)
+
 SATA Mode: AHCI
