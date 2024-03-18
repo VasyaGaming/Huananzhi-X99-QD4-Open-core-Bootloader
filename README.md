@@ -1,5 +1,7 @@
-Open core BootLoader
+Open core BootLoader For Huananzhi X99 QD4
+
 Version: 0.9.9
+
 -------------------------------------------------
 Motherboard-Huananzhi X99 QD4
 
