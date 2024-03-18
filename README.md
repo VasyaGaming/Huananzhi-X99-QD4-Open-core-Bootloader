@@ -33,6 +33,7 @@ Thunderbolt(For initial install, as Thunderbolt can cause issues if not setup co
 Intel SGX
 
 Intel Platform Trust
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Enable Settings 
 
@@ -47,4 +48,5 @@ EHCI/XHCI Hand-off
 OS type: Windows 8.1/10 UEFI Mode (some motherboards may require "Other OS" instead)
 
 SATA Mode: AHCI
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
