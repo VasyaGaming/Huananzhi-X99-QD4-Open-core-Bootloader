@@ -27,7 +27,7 @@ Compatibility Support Module (CSM) (Must be off in most cases, GPU errors/stalls
 
 Thunderbolt(For initial install, as Thunderbolt can cause issues if not setup correctly)
 
-Open core For Huananzhi X99 QD4Intel SGX
+Intel SGX
 
 Intel Platform Trust
 
