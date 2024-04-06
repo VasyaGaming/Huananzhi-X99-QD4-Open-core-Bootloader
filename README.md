@@ -1,4 +1,5 @@
-Open core BootLoader For Huananzhi X99 QD4
+Open core For Huananzhi X99 QD4
+![Screenshot 2024-04-06 at 8 05 06 AM](https://github.com/VasyaGaming/Huananzhi-X99-QD4-Open-core-Bootloader/assets/143002057/b8a59696-eb2b-4361-8167-37c528ba1928)
 
 -------------------------------------------------
 Motherboard-Huananzhi X99 QD4
