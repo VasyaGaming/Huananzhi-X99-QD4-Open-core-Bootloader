@@ -1,16 +1,22 @@
 ![Screenshot 2024-04-06 at 8 05 06 AM](https://github.com/VasyaGaming/Huananzhi-X99-QD4-Open-core-Bootloader/assets/143002057/b8a59696-eb2b-4361-8167-37c528ba1928)
 -------------------------------------------------
 Open core For Huananzhi X99 QD4
+-------------------------------------------------
+Complete hardware specs
 
-Motherboard-Huananzhi X99 QD4
+Motherboard Name: Huananzhi X99-QD4 | Motherboard Chipset: Intel Lynx Point - Q87, Intel Haswell-EP
 
-Processor-Intel Xeon E5-2670V3
+CPU Type: 12-Core Intel® Xeon® E5-2670 v3, 2266 MHz
 
-SSD-Goodram cl100
+Memory: 1 X 8GB DDR4-2133 Reg. ECC DDR4 SDRAM - Micron
 
-Video Card-Amd RX570 8GB
+Video Adapter: AMD Radeon™ RX 570 (8176 MB) (Vendor Sapphire Nitro +)
 
-MacOs Catalina-Sonoma Stable
+Audio Adapter: Realtek ALC897 @ Intel Lynx Point PCH - High Definition Audio Controller
+
+Ethernet Adapter: Realtek PCIe GbE Family Controller
+
+Disk Drive: Goodram cl00 120GB
 
 --------------------------------------------------
 Kexts used: 
