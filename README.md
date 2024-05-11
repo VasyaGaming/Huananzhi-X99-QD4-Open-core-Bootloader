@@ -10,6 +10,8 @@ SSD-Goodram cl100
 
 Video Card-Amd RX570 8GB
 
+MacOs Catalina-Sonoma Stable
+
 --------------------------------------------------
 Kexts used: 
 
