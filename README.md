@@ -48,8 +48,7 @@ Kexts used:
 
 ---------------------------------------------------
 What works
-
-macOS Sonoma, Ventura, Big Sur, Catalina and macOS Monterey
+macOs Sequoia, macOS Sonoma, Ventura, Big Sur, Catalina and macOS Monterey
 
 Audio
 
