@@ -36,15 +36,12 @@ Kexts used:
  
  SMCProcessor.kext
  
- USBToolBox.kext
- 
- UTBDefault.kext
- 
+ USBMAP.kext
+
  VirtualSMC.kext
  
  WhateverGreen.kext
  
- XHCI-unsupported.kext
 
 ---------------------------------------------------
 What works
