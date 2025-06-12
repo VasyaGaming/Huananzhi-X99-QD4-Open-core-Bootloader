@@ -50,7 +50,7 @@ Kexts used:
 
 ---------------------------------------------------
 What works
-macOS Sequoia, macOS Sonoma, Ventura, Big Sur, Catalina and macOS Monterey
+macOs Tahoe, macOS Sequoia, macOS Sonoma, Ventura, Big Sur, Catalina and macOS Monterey
 
 Audio
 
