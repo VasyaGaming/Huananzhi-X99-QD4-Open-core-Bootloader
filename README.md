@@ -6,6 +6,9 @@
 
 ![photo_2024-07-18_12-09-26](https://github.com/user-attachments/assets/4aac596e-db65-4f43-988c-d0faea6db319)
 
+<img width="2560" height="1440" alt="Снимок экрана — 2026-08-04 в 07 35 33" src="https://github.com/user-attachments/assets/8b9c7753-b2c8-4e0c-92b0-5d558d456052" />
+
+
 
 Open core For Huananzhi X99 QD4
 -------------------------------------------------
