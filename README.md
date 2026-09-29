@@ -56,7 +56,7 @@ Kexts used:
 What works
 macOs Tahoe, macOS Sequoia, macOS Sonoma, Ventura, Big Sur, Catalina and macOS Monterey
 
-Audio
+Audio (You need to patch it for Tahoe using OCLP MOD)
 
 HDMI/DP (in dGPU - Works OOB)
 
